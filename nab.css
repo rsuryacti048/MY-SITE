@@ -1,0 +1,83 @@
+
+body{
+   
+        user-select: none;
+}
+.navbar-brand{
+    font-weight: bolder;
+}
+
+.nav-item{
+    padding-right: 40px;
+    font-size: 20px;
+}
+#surya-nav{
+   font-size: 30px;
+}
+/* CONTENT PART*/
+#content{
+    margin-top: 20px;
+    padding: 15px;
+    text-transform: capitalize;
+    line-height: 30px;
+    font-size: medium;
+}
+#my-content{
+    text-transform:capitalize;
+    background-color: rgb(243, 247, 251);
+    padding: 20px 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+ 
+    
+}
+
+/* CONTENT CARDS*/
+
+#row{
+   
+    padding: 15px;
+    
+    justify-content: center;
+    
+}
+.card-img-top{
+    padding: 5px;
+    height: 80%;
+    
+}
+#card-img{
+    size: 100%;
+    border-radius: 14px;
+}
+.card{
+    
+    text-transform: capitalize;
+    margin:20px ;
+   
+}
+.st{
+    color: gold;
+}
+.card:hover{
+    transition: 0.5s;
+    background-color: rgb(225, 239, 251);
+}
+
+/* FOOTER */
+
+#footer{
+    text-align: center;
+    color: white;
+    background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url(https://mail.google.com/mail/u/0?ui=2&ik=d6ed766d44&attid=0.48&permmsgid=msg-f:1753376021715600543&th=18553e33b40bc49f&view=att&disp=safe&realattid=f_lc6qsjoh45), #082032;
+    background-image: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url(https://mail.google.com/mail/u/0?ui=2&ik=d6ed766d44&attid=0.48&permmsgid=msg-f:1753376021715600543&th=18553e33b40bc49f&view=att&disp=safe&realattid=f_lc6qsjoh45) ;
+
+}
+
+ .fa-brands{
+    color: rgb(201, 201, 201);
+    margin: 9px;
+ }
+ .footer-content{
+    padding-top: 18px;
+ }
