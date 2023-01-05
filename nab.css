@@ -68,10 +68,10 @@ body{
 
 #footer{
     text-align: center;
-    color: white;
-    background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url(https://mail.google.com/mail/u/0?ui=2&ik=d6ed766d44&attid=0.48&permmsgid=msg-f:1753376021715600543&th=18553e33b40bc49f&view=att&disp=safe&realattid=f_lc6qsjoh45), #082032;
+    color: black;
+   /* background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url(https://mail.google.com/mail/u/0?ui=2&ik=d6ed766d44&attid=0.48&permmsgid=msg-f:1753376021715600543&th=18553e33b40bc49f&view=att&disp=safe&realattid=f_lc6qsjoh45), #082032;
     background-image: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url(https://mail.google.com/mail/u/0?ui=2&ik=d6ed766d44&attid=0.48&permmsgid=msg-f:1753376021715600543&th=18553e33b40bc49f&view=att&disp=safe&realattid=f_lc6qsjoh45) ;
-
+*/
 }
 
  .fa-brands{
